@@ -1,0 +1,9 @@
+# Exports de coffre — NON chiffrés, ne jamais publier
+aetheris-vault-*.json
+*.vault.json
+
+# Système
+.DS_Store
+Thumbs.db
+node_modules/
+.vercel
